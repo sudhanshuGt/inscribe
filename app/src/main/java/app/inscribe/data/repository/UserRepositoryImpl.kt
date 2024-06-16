@@ -2,9 +2,9 @@ package app.inscribe.data.repository
 
 
 
-import com.example.app.data.model.User
-import com.example.app.domain.repository.UserRepository
-import com.example.app.utils.Resource
+import app.inscribe.domain.model.User
+import app.inscribe.domain.repository.UserRepository
+import app.inscribe.util.Resource
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.firestore.FirebaseFirestore

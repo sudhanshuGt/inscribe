@@ -1,4 +1,4 @@
-package app.inscribe.ui.theme
+package app.inscribe.presentation.view.ui.theme
 
 import android.app.Activity
 import android.os.Build

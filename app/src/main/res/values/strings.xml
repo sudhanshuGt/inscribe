@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Inscribe</string>
+    <string name="title_activity_login">Login</string>
+    <string name="default_web_client_id">AIzaSyAbVx4N50fuI3wooH8KvviOdb0gUkQ5LAQ</string>
+    <string name="title_activity_inscribe_home">InscribeHome</string>
 </resources>

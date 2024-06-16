@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051026563088",
+    "project_id": "inscribe-d9e3b",
+    "storage_bucket": "inscribe-d9e3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051026563088:android:d3a4bec879b4ef038eaa95",
+        "android_client_info": {
+          "package_name": "app.inscribe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbVx4N50fuI3wooH8KvviOdb0gUkQ5LAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
